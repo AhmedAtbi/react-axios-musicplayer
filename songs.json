@@ -1,0 +1,48 @@
+[
+{
+  "artistName" : "Startdust",
+  "songIMG" : "https://upload.wikimedia.org/wikipedia/en/e/ef/Stardust_-_Music_Sounds_Better_with_You.png",
+  "songName" : "Music Sounds Better With you",
+  "songURL" : "https://firebasestorage.googleapis.com/v0/b/music-app-3a097.appspot.com/o/Music%20Sounds%20Better%20with%20You.mp3?alt=media&token=ce3c6b37-4bc2-4624-b0d6-0924f1544cad"
+},
+{
+  "artistName" : "Aphex Twin",
+  "songIMG" : "https://d2pzhy4sc0lwtr.cloudfront.net/post_images/high_density/218/9b14100eaf21c96954be360de6b12598.gif",
+  "songName" : "Acrid Avid Jam",
+  "songURL" : "https://firebasestorage.googleapis.com/v0/b/music-app-3a097.appspot.com/o/Acrid%20Avid%20Jam%20Shre.mp3?alt=media&token=d8fe1448-d062-4427-b63b-b7f96e7c97e3"
+},
+{
+  "artistName" : "Route 8",
+  "songIMG" : "https://img.discogs.com/OYG40IJsrW4j3FFZ2JxU3rY4arY=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-11882202-1524049910-5969.jpeg.jpg",
+  "songName" : "Come Home",
+  "songURL" : "https://firebasestorage.googleapis.com/v0/b/music-app-3a097.appspot.com/o/Come%20Home.mp3?alt=media&token=55974d34-f8e2-4f11-a22a-9c8e24930ff5"
+},
+{
+  "artistName" : "ESPRIT 空想 ",
+  "songIMG" : "https://img.discogs.com/ABcELvANHzhR0in5rT4SmI_XUec=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-9493277-1615932972-2351.jpeg.jpg",
+  "songName" : "Cruiser",
+  "songURL" : "https://firebasestorage.googleapis.com/v0/b/music-app-3a097.appspot.com/o/CRUISER.mp3?alt=media&token=cfdb57c9-7e1b-450d-96d0-fe42633a32e4"
+},
+{
+  "artistName" : "The Pilotwings",
+  "songIMG" : "https://geo-media.beatport.com/image_size/1400x1400/40471728-e1ed-429d-a142-24c477863f22.jpg",
+  "songName" : "Congo Libre",
+  "songURL" : "https://firebasestorage.googleapis.com/v0/b/music-app-3a097.appspot.com/o/Congo%20libre.mp3?alt=media&token=56887fdb-f483-4f78-8097-ab68523399e4"
+},
+{
+  "artistName" : "Coco Steel",
+  "songIMG" : "https://f4.bcbits.com/img/a0565433803_10.jpg",
+  "songName" : "Dub It",
+  "songURL" : "https://firebasestorage.googleapis.com/v0/b/music-app-3a097.appspot.com/o/Dub%20It%20(Big%20Girl%20Mix).mp3?alt=media&token=08c3c5a3-ca4c-4285-b813-e0f9c66d11b7"
+},
+{
+  "artistName" : "The Persuader",
+  "songIMG" : "https://d1c4rk9le5opln.cloudfront.net/e10017177d9b507771e61c0e6d888fae.jpg",
+  "songName" : "Snödroppar",
+  "songURL" : "https://firebasestorage.googleapis.com/v0/b/music-app-3a097.appspot.com/o/Snödroppar.mp3?alt=media&token=4becaa33-60d3-4cf2-9611-ee6f70e7bdb6"
+}
+
+]
+
+
+
